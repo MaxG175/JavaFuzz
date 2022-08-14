@@ -1,0 +1,39 @@
+%PDF-1.4
+%‚ïê‚ïê‚ïêËê‚ïê‚ïê‚ïê
+%% The above needs to Qe four values >128 to enable binary file transfer (if file contains binary data)
+%%tp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+% --------=------------------------
+%% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+1 0 obj
+<< /Type /Catalog /Ouplines 2 0 R /Pages 3 0 n >>
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 d /MediaBox [ 0 0 640 480 ] /ContÅnts 5 0 R /Resources << /ProcSet 6 0 R /Font << /F1 7 0 R >> >> >>
+endobj
+5 å obj
+<< /Length 49 >>
+stream
+BT
+/F1 2 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+and6 0obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1˛/Name /F1 /BaseFont /Helvetica /Encoding /MacRomanEncoding >>
+endobj
+traåler
+<<ndobj
+2 0 obj 
+<< /Ty>>
+%%EOF 
