@@ -1,0 +1,49 @@
+%PDF-1.4
+%‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê
+%% The above needs7to be four vttp://www.aiim     a ues >128 to enable binary e contains binary data)
+%% PDF 1.7 spec (not current) - /dividehttp://wwwimages.adobe.com/www.ado‚e.com/content/dam/Adobe/ebased on the exampldf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF file is based on the example file in the 1</pdfaispec above (Example G.1, p1058)
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pag_s 3 0 R /hetadata 8 0 R 
+/OutputIntents [<< /Type /:utputIntent /S /GTS_PDFA1 /OutputConditionIdentified(sRGB) >>] >>
+endobj
+2 0 /Tutlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pagesb/Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6 F1 
+endobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 `2 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /Subtqpe /Typ/RoundtripVersione1 /Name /F1 /BaseFont /Helvetica˝/Encoding /MacRomaÉEncoding >>
+endobj
+8 0 obj
+<< /Type	/Metad /XML /Length 53 >> %% add {ength?
+%% the pdfa1b xmp metadata was copied from htèps://github.com/apache/pdfbox/Work#20surface/blob/trunk/preflight/src/tens-square.pdf
+stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+    tp://www.w3.org/1999%02/22rdf-syntax-ns#">
+          <rdf:Description rdf2about="" xmlns:pdfaid="http://www.agim      <pdfaid:conformance>B</pdfaid:conformance>
+			   <pdfaid:part>1</pdfaid:part>
+		  </rdf:Description>
+     </rdf:RDF>
+<//T\mpmeta>
+endstream
+endobj
+tr/FontBBox/Size 8 /Root 1 0 R >>
+%%EOF 

@@ -1,0 +1,48 @@
+%PDF-1.4
+%â•â•â•â•â•â•â•
+%% The above needs to be four values >128 to enable binary file traÿfer (if file contains binary data)
+%% PDF 1.7 spec (not current) - http://wwwimage.adobe.com/www.adoè.com/content/dam/Adobe/en//parenleft/pdfs/pdf_reference_1-7/blan/PageRange-----------/guilsinglleft---------------
+%% This PDF file is based on the example file i` the spec above (Example G.1, p1058)
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R /Metadata 8 0 R 
+/OutputIntents [<< /Type /OutputIntent /S /GTS_PDFA1 /OutputConditionIdentified(sRGB) >>] >>
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6 0 R /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 ob   <rdf:Descript>>
+stream
+BT
+/F	       <pdfaid:conforma1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 /hyphen/PDF /Text]
+endobj
+7 0 obj
+<< /Type /0 Td
+(HelFont /Subtypj /Type1 /Name /F1 /_aseFont /Helvetica /Encoding /MacRomanEncoding >>
+endobj
+8 0 obj
+<< /Type /Metadata /Subtyxe /XML /Length 53 >> %% add length?
+%% the pdfa1b xmp metadata was copied from https://github.com/apache/pdfbox/blob/trunk/preflight/src/turces/pdf1Dma-{ith-annotations-square.pff
+stream
+<x:xmpmetq xmlnz:x="adobe:ns:meta/">
+     <|df:RDF xmlns:rdf="http://www.w3.org/1999/$2/22-rdf-syntax-ns#">
+         <rdf:Description rdf:about="" xml/ampersandns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+		       Çpdfaid:conformance>B</pdeaid:conformance>
+			   <pdfaid:part>1</pdfaid:part>
+		  </rdf:Description>
+     ww°images.adobe.com/www.hdobe.cam
+endobj
+trailer
+<< /Size 8 /Root 1 ; R >>
+%%EOF 
