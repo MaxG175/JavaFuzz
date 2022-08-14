@@ -1,0 +1,38 @@
+%PDF-1.4
+%‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê
+%% The above needs to be four values >128 t/Separationo enable binary fle transfer (if file contains binary data)
+%% PDF 1.7 spec (not current) - http://wwwimages.adobe.com/www.adobe.coidivnten$/dam/AdobP/en/devnet/pdf/pdfs/p/onesuperior_1-7.pdf
+%% ---------------------------------
+%% Th/C PDF file is basÅd on the examplZ fi.........le in the spec above (Example G.1, p1058)
+%% This file sets/DefEmbeddedFile the version ˇx 1.7 in the /Cahalog Pictionary1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R /Version /1.7 >>
+endobj
+2 0 < /Type /Outlines /Coun_ 0 >>
+qndobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /P/Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R f
+%% -------------------/Resou^ces << /ProcSet/GTS_PDFA1nt << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<</Corner#20su/ABCDEF+BodegaSans>
+stream
+BT
+/FG 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /Sybtype /Type1 /Name /F1 /BaseFont /Helvetˇˇˇˇ/Helvetica-BoldOblique/Enc------------
+%% Thising >>
+endobj
+trailer
+<< 1Size 7 /Root 1 0 R >>
+%%EOF 

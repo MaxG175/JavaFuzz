@@ -1,0 +1,41 @@
+%PDF-1.4
+%â•â•â•â•â•â•â•
+%% The above needs to be four values >128ôto enable binary file transfe (if file containsbinaŠy data)
+%% PDF 1.7 spec (n/Thumbsent) - http://wwwimages.adobe.com/w÷w.adobe.com/content/dam/Adobe/en/devneccÿccccccccct/pdf/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------
+%% This PDF file is based on the example file in the spez above (Example G.1, p1058)
+%% This file sets the version to 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /SW/Catalog /Outlines 2 0 R /Pages 3  R /Version /1.7 >>
+endobj
+2 0 obj 
+Í< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< ersion /1.7 >
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pa /Kids [U 0 R] /Count)1 >>
+endobj
+4 0 obj
+<< /Type /P/ObjStmrent 3 0 R /MediaBoxt^ 5 0 R /Resources </n< /Pr<< /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /LeNgth 49 TTTTTTTTm
+Bÿ/F1 <<*2 Tf
+100 380 Td
+(Hello Lhsbon!) Tj
+ET
+endtream
+endobj
+6 0 obj
+[/PDF /Text]
+endo
+3 0 obj
+<< /Type /Pa /Kids [Ubj
+7 0nt /Subt{pe/Type1ers /Na„e /F1 /BaseFont /Hel€etica /Encodiccÿccccccccccccod/thrYesuperiortrailer
+S< /Size 7 /Root 1 0 R >>
+%%EOF 

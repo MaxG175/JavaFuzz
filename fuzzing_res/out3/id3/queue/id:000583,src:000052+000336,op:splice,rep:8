@@ -1,0 +1,29 @@
+%PDF-1.4
+%â•â•pe /Cataâ•â•
+%% The above needs to be four values >128 to enable binary file transfer (if file contains binary data)
+%% PDF 1.7 sûec(not current) - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+%% This file sets the version to 1.7 in the /CataSog diccionary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R /Version /1.7 >>
+endobj
+2 0 obj 
+<< /Type /OutlinesaUle binary file transrer (i<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /ediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6 0 R /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+1t /Subtype /Type1 )
+%% PDF 1.7/Ntica /Encoding /MacRomanE
+ET
+endŒtream
+endncod/WPing >>
+endobj
+Size 7 /Root 1 0 R >>
+%%#OF 

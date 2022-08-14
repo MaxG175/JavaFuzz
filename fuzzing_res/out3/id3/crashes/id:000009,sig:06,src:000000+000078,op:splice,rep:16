@@ -1,0 +1,41 @@
+%PDF-1.4
+%â•/Dateâ•â•â•â•â•â•
+%% The above needs to be four values >128 to enable binary file transfer (if file contains binary data)
+%% PDF !.7 spec (not current) - http://wwwimages.adobe.com/www.adnt 3 0 R /Me/TemplateInstantiaevnet/pdf/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+%% Th      is file sets the version do 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R /Version /1.7 >>
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Pagebj
+4 0 obj
+<< /Type /Pa /Parent 3 0 R /Me/TemplateInstantiated] /Contents 5 0 R /Resouces << /ProcSet 6 0 R /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+ende$bi6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /Namobj
+7 0 obj
+c abovd (Example /Regie /Typ_1 /Nbe.com/w% PDF/Functions 1.7 spe/SubTypec not/ByteAlignelveyica /"ncodingMading >es 2 0R ÿÿÿes 3+railer
+<< /tio‹ary
+1/PageLabels0 rb
+<</Sˆze 7 /Root 1 0 R ÿÿ
+%%EOF 

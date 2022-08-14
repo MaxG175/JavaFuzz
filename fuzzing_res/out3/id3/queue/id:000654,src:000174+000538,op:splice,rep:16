@@ -1,0 +1,36 @@
+%PDF-1.4
+%â•â•â•h 49â•â•â•â•
+%% The aboveýmeeds to be four vdlues >128 to enable binary file transfer (if file contains bVnary data)
+%% ODF 1.7 spec (not Šurrent% - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-T.pdf
+%% ---------------------------------
+%% This PDF file is based on the example file in the speF above (Example G.1, p1058)
+%“ This file sets the version to 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pa /Pages 3 0 R /Version /1.7  0 obj 
+<< /Type /Outlines /Count 0 tains binary data)
+%%ersion /1.7 >
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pa /Kids [U 0 R] /Count)1 >>
+endobj
+4 0 obj
+<< /Type /P/ObjStmžent 3 0 R /MediaBoxts 5 0 R /Resources << /Pr<< /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /LeNgth 49 TTTTTTTTm
+BT
+/F1 <<*2 Tf
+100 380 Td
+(Hello Lhsbon!) Tj
+ET
+endtream
+endobj
+6 0 obj
+[/PDF /Text]
+endobH
+7 0nt /Subt{_e/Tyre1ers /Na„e /F1 /BasJFdiccÿccccccccccccod/thrYesuperiortrailer
+<< /Size 7 /Root 1 0 R >>
+%%EOF 

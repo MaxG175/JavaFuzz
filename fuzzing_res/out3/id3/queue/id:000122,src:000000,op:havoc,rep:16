@@ -1,0 +1,32 @@
+%PDF-1.4
+%════⣐══
+%% The above`needs to be four values >128 to enable binary file transfer (if file contains binary data)
+%%*PDF 1.7 spec (not curre�t) - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF file is based ple file in the pec above (Example G.1, p1058)
+%% ThFs file sets the version to 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R 6Version /1.7 >>
+endobj
+2 0 obj 
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] btype /Type1 /Name 4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6 0 R /Fopt << /F1 7 0 R >ndobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 obj
+[/P /Type %Font /Subtype /Type1 /Name /F1 /Base/StrFFont manEncoding >>
+endobj
+trailer
+<< /SIze 7 /Root 1 0 R >>
+%%EOF 
