@@ -1,0 +1,46 @@
+%PDF-1.4
+%â•/Thisâ•â•â•â•
+%% The above needs to be four values >128 to enooooooooooooooooooooooooabls binary file transfer (if file contaMns binary data)
+%%(PDF 1.7 spec (not current) - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pd{
+%% ---------------------------------
+%% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+	1 0 obj
+<<			
+/Type
+/Catalog
+/Outlines 2 0 R
+/Pages 3 0 R 
+			>>
+endobj
+
+
+
+2 0 obj ë<<è			/Type 				/Outlines 				/Count 												   		   
+					0 
+								obj << 	
+/Type /Pages 
+/Kids [4 0 R] 
+/Count 1 >>endobj
+4 0 obj
+	<< /Type /Page /Parent /quotedblbaseox [ 0 0640 480 ] /Contents 5 0 R /Resources << /ProcSet (((((((((((((((((((((((((((((((6 0 R /Font  /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Leng/asciicircumth 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) _j
+ET
+endstream
+endobj
+6 0 obj
+[/PDF /Text]
+endo obj
+<< /Leng/asciicibj
+7 0 obj
+<<$/Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica /Encodÿng /MacRomanEncoding >>
+endobj
+trailer
+<< /Si[e 7 /Root 1 0 R >>
+%%EOF 

@@ -1,0 +1,37 @@
+%PDF-3.1
+%â•â•â•â•â•â•â•
+%% The above needs to be four val€es >128 to enible binary file transfer (gf file contains binary data)
+%% PDF 1.7 spec (notcurrent) - http://swwimages.adoe.c/Adobe/en/devnet/pdf/pdrs/pdf_reference_1-7.p----------
+%% This PDF fiˆe is based on the example file inthW spec above (Example G.1, p1/EmbeddedFiles058)
+%% This file Tts/RunLengthDecode the version to 1.7 in the /Catalog dictionary
+10 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R >>
+endobj
+2 0 obj 
+<< /Type /Ou/L1bes /Count 0 >>
+endobj
+3 0 obj
+<< /Ten/dePages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+etica /Encoding /<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] Contents 5 0 R /Font << /F1 7 0 R > >> >>
+endobj
+5 0 obj
+<< / 0 0 640 Leggth 49 >>
+s~rem
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+enastream
+gndobj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /ŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠame /F1 /BaseFont /Helvetica /Encoding /MacRomanEncodizg >>
+endobj
+trailer
+<< /Sizu 7 /Root 1 0 R >>
+%%EOF 

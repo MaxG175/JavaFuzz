@@ -1,0 +1,30 @@
+%PDF-3.1
+%â•â•â•â•â•â•â•
+%% The above needs/Start to be four values >128 to enable binary file transfer (if file contains binary dat/CourierF 1.7 spec (not current) - http://wwwImages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+%e =,----------------%--------------
+%% dhis PDF file is based on the example file in the spThis file sets the version to 1.7 in tae /Catalog dictionary
+1 0 obj
+<< ¬Type /Catalog /Outlines 2 0 R /Pa<<ndobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+e
+%Qbj
+4 0 obj
+<< /Type /Page /Pare™t 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6 0 R /Font << 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+enendnotdefahardstream
+enAobj
+6 0 obj
+[/PDF /Text]
+endobj
+xFont /Subtype /Type1 /Name /F1 /BaseFont /Helvetica /Encoding /MacRomanEncoding >>
+endobj
+trailer
+<< /SizG 7 /Root 1 0 R >>
+%%EOF 

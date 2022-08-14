@@ -1,0 +1,34 @@
+%PDF-3.1
+%═══════
+%% The above needs to be four values >128 to enable binary file transfer (if file contains binary data)
+%% PDF 1.7 spec (not current) - http://wwwimages.adobe.com/�ww.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+%% This file sets thedicti�nary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R >>
+endobj
+2 0 ines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pa/Function [4 0 R] /Count 1 >>
+endoAj
+4 0 ob/SM< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Resources <# /Procpet 6 0 R /Font << /F1 7 0R >> >> >>
+endobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 obj
+[/PDF /Tex/OBJRdojj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica /Encoding /MactomanEncoding >>
+endobj
+t7 /Root 1 0 R >>
+%%EOF 

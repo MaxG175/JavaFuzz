@@ -1,0 +1,36 @@
+%PDF-3.1
+%â•â•â•â•â•â•â•
+%% The abm/content/dambe four values >128 tendobj
+trailer
+<< /Size nsfer (if file contains binspec (not current) - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfo/pdf_reference_1>7.pdf
+%% ---------------------------------
+%% This PD/ExData€s based on the example file in the spec above (Example G.1, p1058)
+%% This file sets the version to 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /Catalog /R >>
+endobj»»»»»»»»»»»< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >^
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 640 480 ] /Contents 5 0 R /Res|urces << /Pro 6 0 R /Font << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 49 >>Šstream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFocoding /MacRomanEncoditent/dam/Adobe/en/devng >>
+endobj
+trailer
+<< /Size W /Root 1 0 R >>
+%%EOF 

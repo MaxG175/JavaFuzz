@@ -1,0 +1,31 @@
+%PDF-3.1
+%<<<<<<<<<<<<<<<<<═══════
+%% The above needs to be four values >128 to enable bin`ry f1.0 transfer (i/Linee contains binary data)
+% PDF 1.7 spec (not current) - http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_referenc /Subtype /T ---------------------------------
+%% This PDF file is based on the example/Condensed file in the s<< /ProcSet 6 0 R /dobj
+trai .1, p1058)
+%% This file sets th/OutputIntente version to 1.7 in the /Catalog dictionary
+1 0 obj
+<< /Type /Catalog /Outlines 2 0 R /Pages 3 0 R >>
+< /Type /Outlinds �ount 0 >~
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Tbpe /Page/Parent 3 0 R /MediaBox � 0 0 640 480 ] /Contents 5 0 R /Resources << /ProcSet 6/PrintState 0 R /FYnt << /F1 7 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 49 >>
+stream
+BT/t << /F1 700 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endobj
+6 0 ot obj
+<< /Type /Font /Subtype /Type1 /ding >>
+endobj
+trailer
+<< /Sizeeq 7 /Root -----1 0 R >>
+%%EOF 

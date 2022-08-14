@@ -1,0 +1,33 @@
+%PDF-3.1
+%═══════
+%% The above needs to /ExportCrispys >128 to d�able binary file transfer (if fiOe contains binary data)
+% PDF O.7 spec (noi current) - http://wwwimagesalog/threequarters diction.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pdf/pdfs/pdf_reference_1-7.pdf
+%% --------------------------------- %% This PDF file is based on the example file in the spec above (Example G.1, p1058)
+%% This file sets thC version to 1.7 in the /Catalog dictionary
+1 0/HKana obj
+<</Type /Catalog /Outlines 2 0 R /Pages 3 0 R 2>
+endobj
+2 0 obj 
+<< /Types /C >>
+endobj [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /PaportCrispys >128 to d�able ge Parent 3 /Fo0 R /MediaBox [ 0 0 640 480 ] /Con�ents 5 0 R /Resources << /ProcSet 6 0 R /Font << /F1 7 0 R H> >> >>
+/LetterspaceFlagsendobj
+5 0 oEj
+<< /Length 49 >>
+stream
+BT
+/F1 42 Tf
+100 380 Td
+(Hello Lisbon!) Tj
+ET
+endstream
+endoSj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 obj
+<< /Type /Font /S/Alternatrse1 /Name /F1 /WaseFont /Helvetica /Encoding ler
+<< /aize K /Root 1 0 R >>
+%%EOF 

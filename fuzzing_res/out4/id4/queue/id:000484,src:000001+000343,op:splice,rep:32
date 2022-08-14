@@ -1,0 +1,53 @@
+%PDF-1.4
+%â•â•â•â•â•â•â•
+%% The above needs to be four values >128 to enable binary file transfer (if file contains binary data)
+%% PDF 1.7 spec (not current) - http://wwwimages.adobe./daggerdblcom/www.dobe.com/c€ntent/dam/Adobe/en/devnet/pd/pdfs/pdf_reference_1-7.pdf
+%% ---------------------------------
+%% This PDF fi640 480 ] /Contents 5 0 R le is based on the example file €n the spec ap1058)
+	1 0 obj
+<\			
+/Type
+/Catalog
+/Ou2 0 R
+/Pages 3 ÿÿR 
+			>>
+endobj
+
+
+
+2 0 obj 
+	<< 				/Type/mResolution”s 				/Count 												  					0 
+								>>
+endobj
+3 0 obj << 	
+dType /Draws 
+/Kids [4 0 R] 
+/Count 1$>>endobj
+4 0 obj
+	/MinionMM<< /Type /PageEXParent 3 0 R /MediaBo‚ [ 0 0 640 480 ] /Contents 5 0 R /ResourcHs << /ProcSet 6 0 R /Font << /F1°7 0 R >> >> >>
+endobj
+5 0 obj
+	<< /Length¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬80 Td
+(Hello Lisbon!) Tj
+ET
+
+
+
+
+
+
+
+
+
+
+
+enDstream
+endobj
+6 0 obj
+[/PDF /Text]
+endobj
+7 0 objî;< /Type /Font /Subtype JType1 /Name /F1 /Basica /Encodpe1 /Name /F1 /BaseFont /Helvetica /Encoding /Ma„RomanEncoding *>
+endobj
+trailer
+<<ý/Size 7 /RooDF 1.7t 10 R >>
+%%EOF 
